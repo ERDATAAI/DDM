@@ -1,7 +1,7 @@
 # ERData.ai - AI-Powered Data Modeling Platform
 
-[![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20iOS%20%7C%20Android-green.svg)](https://erdata.ai)
-[![Documentation](https://img.shields.io/badge/Docs-Read%20Here-brightgreen)](https://docs.erdata.ai)
+[![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)](https://erdata.ai)
+[![Documentation](https://img.shields.io/badge/Docs-Read%20Here-brightgreen)](https://erdatai.wordpress.com/features/)
 
 **ERData.ai** is a next-generation data modeling tool designed to democratize AI and analytics for both technical and non-technical users. Build, visualize, and deploy models in minutes – no coding required.
 
@@ -17,13 +17,13 @@
   Auto-suggest connections, detect data anomalies, and optimize hyperparameters with GPT-4 integration.
 
 - **Real-Time Collaboration**  
-  Share projects via secure links, track changes with version control.
+  Share projects within team, track changes with version control.
 
 - **Enterprise-Ready Templates**  
   Jumpstart projects with 100+ industry templates (e.g., churn prediction, supply chain optimization).
 
 - **One-Click Deployment**  
-  Export models as APIs, Docker containers, or integrate directly with Snowflake/BigQuery.
+  Export models as ddl or integrate directly with Snowflake/BigQuery.
 
 ---
 
